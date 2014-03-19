@@ -1,4 +1,4 @@
-library
-=======
+Library base
+============
 
-Utilities library
+Base project for Martin's utilities library
